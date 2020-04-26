@@ -11,7 +11,7 @@ Classifies into 6 classes:
 
 ### Requirements
 
-`cv2
+`cv2`
 numpy
 pandas
 matplotlib
