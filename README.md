@@ -11,11 +11,11 @@ Classifies into 6 classes:
 
 ### Requirements
 
-`cv2`
-numpy
-pandas
-matplotlib
-seaborn
-tensorflow
-keras'
+-cv2
+-numpy
+-pandas
+-matplotlib
+-seaborn
+-tensorflow
+-keras
 
